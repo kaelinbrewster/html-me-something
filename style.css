@@ -33,6 +33,14 @@ main h2 {
 	padding: 0.625em 0 0.625em 0.625em;
 }
 
+.town_info {
+	color: peru;
+}
+
+#last_place {
+	color: orangered;
+}
+
 section {
 	margin: 1.875em 0;
 }
@@ -68,6 +76,7 @@ figure {
 
 figcaption {
 	font-style: italic;
+	color: red;
 }
 
 footer {
